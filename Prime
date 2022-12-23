@@ -9,7 +9,7 @@
 --─██░░██─────────██░░██──██░░██───────██░░██───██░░██──────────██░░██─██░░██─────────
 --─██░░██─────────██░░██──██░░██████─████░░████─██░░██──────────██░░██─██░░██████████─
 --──────────────────────────────────────────────────────────────────────
-loadstring(game:HttpGet("https://raw.githubusercontent.com/strongprime/source/main/source", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/UwXvc36U", true))()
 
 DaHoodSettings.Prediction = 0.148357
 
